@@ -27,9 +27,9 @@ public class Repository {
 
         userObjects= new ArrayList<>();
         UserObject userObject = new UserObject();
-        userObject.setAddress("Ashkelon");
-        userObject.setPhone("050-4444444");
-        userObject.setUsername("Sason");
+//        userObject.setAddress("Ashkelon");
+//        userObject.setPhone("050-4444444");
+//        userObject.setUsername("Sason");
         userObjects.add(userObject);
 
     }
